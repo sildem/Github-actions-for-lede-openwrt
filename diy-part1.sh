@@ -18,6 +18,7 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git jerrykuku_argon https://github.com/jerrykuku/luci-theme-argon.git' >>feeds.conf.default
+echo 'src-git Boos4721 https://github.com/Boos4721/OpenWrt-Packages.git' >>feeds.conf.default
 
 # Add openclash
 git clone https://github.com/vernesong/OpenClash.git
